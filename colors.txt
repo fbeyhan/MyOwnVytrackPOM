@@ -5,6 +5,7 @@ pink
 yellow
 white
 black
+grey
 
 ####
 green
