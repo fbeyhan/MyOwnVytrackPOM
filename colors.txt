@@ -1,8 +1,6 @@
 blue
 red
 orange
-<<<<<<< Updated upstream
 pink
-=======
 yellow
->>>>>>> Stashed changes
+
